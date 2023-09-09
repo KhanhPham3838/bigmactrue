@@ -1,0 +1,31 @@
+
+#### Data
+
+The `big-mac.csv` data set depicts the price of a Big Mac burger, a globally standardized product available in many countries through the fast-food chain McDonald's, expressed in the local currency of multiple countries and their respective dollar price based on the exchange rate at the time. According to [The Economist (2023)](https://www.economist.com/bigmacindex/2023), this is a simplified introductory concept to the theory of purchasing-power parity (PPP), which defines whether currencies are at an "appropriate" level as an identical basket of good (*a Big Mac in this case*) should be the same in any two countries and the only difference based on the exchange rate. 
+
+The data set is acquired from `tidytuesday` GitHub repository, which was posted on the 22 December 2020
+
+Click [**here**](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-12-22/big-mac.csv) to access the data page. 
+
+#### Purpose
+
+The purpose of the app is to:
+
+1. Display the trends of world currencies against the base currency of choice, which prompts the user to look for the overall 20-years trend,
+
+2. Depict the single year picture of world currencies valuation against a base currency, allowing a closer look at the situation of each year, and
+
+3. Portray inflation based on the changes in the price of a Big Mac in terms of local currency and its converted dollar price from 2000 to 2020, suggesting a glimpse of actual inflation for a country.
+
+The visualization of the Big Mac data is aimed as a way to help the user identify time series trends and easier to digest the concept of exchange rate imbalances. Moreover, the questions placed in each graphs' side panel prompts the user to seek for answers which can help them to establish a mental image of the how graphs work. The interactive element of plot design is for the users to seek out answers for their own questions at their discretion, facilitating the learning process.
+
+#### Creator
+
+Minh Pham (mpha0054@student.monash.edu)
+
+<details>
+<summary>Session information</summary>
+```{r, echo = FALSE}
+sessioninfo::session_info()
+```
+</details>

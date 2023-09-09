@@ -1,0 +1,12 @@
+name: shiny-TheBigMacIndex
+title: shiny-TheBigMacIndex
+username: mpha0054
+account: mpha0054
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9689723
+bundleId: 7613182
+url: https://mpha0054.shinyapps.io/shiny-TheBigMacIndex/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
